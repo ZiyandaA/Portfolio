@@ -16,4 +16,4 @@ You can access a working prototype of the app at [https://github.com/ZiyandaA/Po
 This app is built using HTML, CSS, JavaScript, and jQuery.
 
 The app is designed to be responsive across desktop, tablet, and mobile platforms.
-# Portfolio
+
