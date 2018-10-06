@@ -5,13 +5,12 @@ Portfolio for Ziyanda Ayd, full stack web developer.
 ## Screenshots
 Desktop:
 
-![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-full.png)
 
 ## Use Case
 This app provides viewers an overview of skills and projects for Ziyanda Ayd.
 
 ## Working Prototype
-You can access a working prototype of the app at [https://egrebowski.github.io/portfolio/](https://egrebowski.github.io/portfolio/).
+You can access a working prototype of the app at [https://github.com/ZiyandaA/Portfolio/](https://github.com/ZiyandaA/Portfolio/).
 
 ## Technical
 This app is built using HTML, CSS, JavaScript, and jQuery.
