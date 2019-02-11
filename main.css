@@ -379,10 +379,7 @@ footer {
         padding: 80px;
         margin-left: 30px; 
     }
-    .project-image{
-        /* width: calc(100% - 530px);
-        padding-top: 130px; */
-    }
+    
     section.projects .project-container li {
         background: #ffffff;
         color: #170e09;
