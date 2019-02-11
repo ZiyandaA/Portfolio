@@ -1,0 +1,175 @@
+1.DO NOT STYLE ON THE ELEMENTS!!!!!!!!!!!!!!!!
+no styling on header, section, div or etc
+everything must have a class or id
+
+basic reset styling for section, header, footer 
+should be provided by skeleton or meyers css
+
+In future bootstrap or foundation
+
+
+
+2. Smooth Scroll problem
+Use basic boookmarking HTML
+and add this smooth scroll code to your js file 
+https://css-tricks.com/snippets/jquery/smooth-scrolling/
+
+
+3. Grid Structure
+header, footer, main, aside
+// on skills section you want to have full-width 100% so in grid use full width class
+
+
+content
+
+
+content 
+
+
+
+
+responsive-grid.css
+container remove name change .section-container to .container
+all grid class need to be move here
+
+
+
+4. main.css
+add comments for each area
+use myers below or skeleton for a base temlate
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+v2.0 | 20110126
+License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+display: block;
+}
+body {
+line-height: 1;
+}
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: '';
+content: none;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+
+/* General
+======================= */
+
+h1-h6 
+
+html, body {
+max-width: 1000vw; /* so no vertically sliding */
+}
+
+body {
+base pixel, usually 16px -> 1rem
+}
+
+p {
+always add margin-bottom: 10px; /* 10px is usually */
+please add line-height to p tag (spacing between sentences)
+}
+
+a {
+color: #ff0099;
+text-decoration: none;
+}
+
+a:hover {
+color: #ff0066;
+}
+
+img {
+max-width: 100% /* very important to have a max-width of 100%
+height: auto;
+}
+
+
+.align-leftt {
+padding-right: 15px;
+padding-bottom: 15px;
+max-width: 100%;
+}
+
+.align-right {
+padding-left: 15px;
+padding-bottom: 15px;
+max-width: 100%;
+}
+
+.text-center { /* do not use */
+text-align: center;
+}
+
+.text-right {
+text-align: right;
+}
+
+.text-left {
+text-align: left;
+}
+
+/* Navigation
+======================= */
+
+nav.....
+
+
+/* Content
+======================= */
+
+
+
+
+4. Study popular fonts that used, usually the headings font is not the same as the paragraph font
+5. Make sure all images have alt tag with text
+6. Please add hover states (psuedo class :hover) change color
+7. Project title should be h3 or h4
+8. Don't put col- on img (mg should be inside) or any elements it should have its own or tag
+9. Spacing between elements for project should be 30px or40px
+10. Study Google Schema
+11. For each section title, best to use h1 or h2
+12. Responsiveness only needs to be 320px and up for sites
+13. Please add to footer 2018-2019 © All Rights Reserved.
+14. About me 4rem font-size for desktop/tablet, pixlr.com/express to change image with filter and subtlepatterns.com
+to add a image background. 
+15. header with background add background-attachment: fixed; for parallax effect
+16. Navigation needs to be in a container
+17. position: relative; overflow: hidden; study why to use
+7:45 PM
